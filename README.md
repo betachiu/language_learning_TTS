@@ -16,7 +16,7 @@
 ## Speech Source
 1. Type text directly. (Multi-line supported)
 2. Upload .txt file.
-3. Upload .md file exported from [Xmind](https://www.xmind.net/).
+3. Upload .md file exported from [Xmind](https://www.xmind.net/). (Download [example.md](xmind_example.md))
 
 ## How to Export Xmind into .md
 ![](xmind_export.gif)
