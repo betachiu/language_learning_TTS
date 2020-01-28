@@ -5,7 +5,7 @@
 [![Build Status][travis-image]][travis-url]
 
 ## How to Use
-[Live Demo](https://rollingseal.com/demo/language_learning_TTS/index.html)
+[Live Demo](https://chiubeta.github.io/language-learning-TTS/index.html)
 
 1. Type some text or upload a .txt/.md file
 2. Choose a language
